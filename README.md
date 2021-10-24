@@ -19,3 +19,7 @@
 
 
 - 🎤 Rapper
+
+
+
+- 💤 And Lazy
