@@ -10,4 +10,4 @@
 - :orange_book: Android&Kotlin
 - :hammer: Creator of applications
 - :ram: Founder the ObjCCN
-- :🎤: Rapper
+- 🎤 Rapper
