@@ -22,4 +22,4 @@
 
 
 
-- 💤 And Lazy
+- 💤 And Sleep
