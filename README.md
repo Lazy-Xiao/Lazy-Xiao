@@ -1,6 +1,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-Xiao&hide=javascript&layout=compact&hide_title=true&theme=radical&hide_border=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lazy-Xiao&hide_title=true&show_icons=true&theme=synthwave&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lazy-Xiao&hide_title=true&show_icons=true&theme=dark&hide_border=true" />
 
 
 
