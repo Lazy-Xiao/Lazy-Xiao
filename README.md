@@ -4,10 +4,9 @@
 
 
 
-### 你好，世界 👋
+### Hello World 👋
 
 
 - :orange_book: Android&Kotlin
 - :hammer: Creator of applications
-- :ram: Founder the ObjCCN
 - 🎤 Rapper
