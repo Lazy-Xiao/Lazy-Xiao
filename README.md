@@ -1,5 +1,5 @@
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-Xiao&hide=javascript&layout=compact&hide_title=true&theme=radical&hide_border=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-Xiao&hide=javascript&layout=compact&hide_border=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lazy-Xiao&hide_title=true&show_icons=true&icon_color=A97BFF&hide_border=true" />
 
 
