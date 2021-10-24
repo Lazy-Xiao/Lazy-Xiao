@@ -8,5 +8,9 @@
 
 
 - :orange_book: Android&Kotlin
+
+
 - :hammer: Creator of applications
+
+
 - 🎤 Rapper
