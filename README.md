@@ -14,7 +14,7 @@
 
 
 
-- :orange_book: Android&Kotlin
+- :orange_book: Android&Vue
 
 
 
