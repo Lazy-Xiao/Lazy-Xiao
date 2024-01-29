@@ -15,17 +15,17 @@
 
 
 
-- :orange_book: Android&Vue
+- :orange_book: 谋士以身入局，举棋胜天半子
 
 
 
 
-- :hammer: Creator of applications
+- :hammer: C#/Python
 
 
 
 
-- 🎤 Rapper
+- 🎤 Rapper Music
 
 
 
