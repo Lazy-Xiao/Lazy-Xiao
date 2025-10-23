@@ -16,7 +16,7 @@
 
 
 
-- :orange_book: 谋士以身入局，举棋胜天半子
+- :orange_book: Reading
 
 
 
